@@ -1,0 +1,4 @@
+DesignResources/DaftPunk-background.wav filter=lfs diff=lfs merge=lfs -text
+Executable/collateral.exe filter=lfs diff=lfs merge=lfs -text
+collateral.gb1 filter=lfs diff=lfs merge=lfs -text
+collateral.gmk filter=lfs diff=lfs merge=lfs -text
